@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Here we are together for techknow bar team.
 Use the left arrow to go back!
